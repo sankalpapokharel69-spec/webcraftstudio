@@ -1,0 +1,16 @@
+{
+  "name": "webcraft-studio",
+  "version": "1.0.0",
+  "description": "Web Craft Studio - Portfolio Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.0.0",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "google-auth-library": "^9.14.0"
+  }
+}
